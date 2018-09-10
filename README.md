@@ -1,2 +1,5 @@
-# CocoscreatorTypescriptBase
-cocoscreator的typescript基础项目,里面有一些基础的工具和nodemodules.
+# 说明
+
+## 文件夹说明
+    i18n/ 多语化工具
+    Excelplus/ 转表工具
